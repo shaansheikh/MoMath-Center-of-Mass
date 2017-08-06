@@ -21,3 +21,9 @@ The purpose of the project is to create an interactive demonstration that intuit
 We expect our exhibit will be especially educational for elementary and middle school age children, though all ages will find it to be a fun learning experience. It encourages collaboration and communication among visitors. However, not all visitors on the square need to participate in achieving the goal for the goal to be reached, as others can compensate for their movements. This makes it ideal for when there are multiple people of a variety of ages on the board. This may even be more educational for older students because they must learn how the center of mass behaves when you have limited control of the polygon's verticies.
 
 To make it clearer that the users need to get the center of mass to the target ring, the color of the polygon is determined by the distance between the center of mass and ring. The closer visitors manage to bring the center of mass to the target ring, the greener the polygon becomes. The further it gets, the bluer it becomes.
+
+![Screenshot](http://i.imgur.com/wN41oUn.png "Screenshot")
+
+## Additional Notes
+
+We are glad to have participated in MoMath's first hackathon. Many thanks to the museum staff and hackathon sponsors for affording us this opportunity!
