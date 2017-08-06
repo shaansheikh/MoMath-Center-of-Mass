@@ -24,3 +24,6 @@ To make it clearer that the users need to get the center of mass to the target r
 
 ![Screenshot](http://i.imgur.com/wN41oUn.png "Screenshot")
 
+## Additional Notes
+
+We are glad to have participated in MoMath's first hackathon. Many thanks to the museum staff and hackathon sponsors for affording us this opportunity!
