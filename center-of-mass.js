@@ -284,7 +284,7 @@ export const behavior = {
   init: pb.init.bind(pb),
   frameRate: 'sensors',
   render: pb.render.bind(pb),
-  numGhosts: 6,
+  numGhosts: 3,
   ghostBounds: {
     x: Display.width / 6,
     y: Display.height / 6,
