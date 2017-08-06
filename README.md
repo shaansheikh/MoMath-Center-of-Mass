@@ -1,7 +1,8 @@
 # MoMath Hackathon 2017: Polygon Center of Mass
 
 - Project category: _Math Square behavior_
-- Team members: Brian Sapozhnikov <brian.sapozhnikov@gmail.com>,  Lise Ho <lise.ho6@gmail.com>, Shaan Sheikh <shaansweb@gmail.com>, Mary Taft <mary.taft97@gmail.com>
+- Team members: Lise Ho <lise.ho6@gmail.com>, Brian Sapozhnikov <brian.sapozhnikov@gmail.com>,  Shaan Sheikh <shaansweb@gmail.com>, Mary Taft <mary.taft97@gmail.com>
+
 
 ## Intro
 
