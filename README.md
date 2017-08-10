@@ -23,6 +23,4 @@ We expect our exhibit will be especially educational for elementary and middle s
 To make it clearer that the users need to get the center of mass to the target ring, the color of the polygon is determined by the distance between the center of mass and ring. The closer visitors manage to bring the center of mass to the target ring, the greener the polygon becomes. The further it gets, the bluer it becomes.
 
 ![Gif](demo_center_of_mass.gif)
-## Additional Notes
 
-We are glad to have participated in MoMath's first hackathon. Many thanks to the museum staff and hackathon sponsors for affording us this opportunity!
